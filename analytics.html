@@ -1,0 +1,95 @@
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vinayak Solar ROI</title>
+    <meta http-equiv="X-UA-COMPATIBLE" content="" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+
+
+</head>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <section id="barGraph">
+                    <h4>  Number of People opted for Solar in each state  </h4>
+                </section>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <section id="lineGraph">
+                    <h4> People who joined Vinayak Solar in recent times.  </h4>
+                </section>
+
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <section id="survey">
+            <h2> Please take a quick survey </h2>
+            <form action="php/survey.php" method="post" id="csurvey">
+                <p id="formip">Enter Your State(eg. MA for Massachusetts): <input type="text" name="state"></p>
+                <p id="formip">Do you have use Solar energy at Home?    <input type="text" name="sol_home"></p>
+                <p id="formip">Are you a member of Vinayak Solar ROI?    <input type="text" name="mem_solar"></p>
+                <input type="submit" id="formSubmit" name="submit" value="Submit" onclick="surveyClick()">
+            </form>
+        </section>
+    </div>
+<body>
+
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/d3.min.js" charset="utf-8"></script>
+    <script src="js/bar.js" charset="utf-8"></script>
+    <script src="js/line.js" charset="utf-8"></script>
+    <script src="js/utility.js" charset="utf-8"></script>
+
+
+
+    <link rel="stylesheet" href="css/font-awesome.min.css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/bar.css" />
+
+
+    <header id="header">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class ="container-fluid">
+                <div class="navbar-header">
+                    <a href="index.html">
+                        <h2> Vinayak Solar ROI </h2>
+                    </a>
+                </div>
+
+
+                <nav class="nav navbar-nav">
+                    <ul class="nav nav-pills">
+                        <li class="weatherButton"></li>
+                        <li ><a href="index.html"><i class="fa fa-home"></i> Home</a></li>
+                        <li> <a href="products.html"><i class="fa fa-building"></i> Products</a> </li>
+                        <li class="active"> <a href="analytics.html"><i class="fa fa-line-chart"></i> Analytics</a></li>
+                        <li> <a href="aboutus.html"> <i class="fa fa-archive"></i> About Us</a> </li>
+
+                        <li class="signButton"> <a href="signup.php"> Sign Up!</a> </li>
+                    </ul>
+                </nav>
+
+            </div>
+        </nav>
+
+    </header>
+
+
+
+</body>
+</html>

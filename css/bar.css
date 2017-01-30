@@ -1,0 +1,56 @@
+@import url(font-awesome.min.css);
+@import url(http://fonts.googleapis.com/css?family=Raleway:700,400);
+
+
+#barGraph{
+    background-color: #ffffff;
+    border: 1pt solid #DADADA;
+    padding: 2em;
+    box-shadow: 5px 5px 5px #888888
+}
+
+#barGraph h4{
+    font-weight: bold;
+}
+
+
+#lineGraph{
+    background-color: #ffffff;
+    border: 1pt solid #DADADA;
+    padding: 2em;
+    box-shadow: 5px 5px 5px #888888
+}
+
+#lineGraph h4{
+    font-weight: bold;
+}
+
+
+.bar {
+    fill: #b40009;
+}
+
+.bar:hover {
+    fill: #a59e19;
+}
+
+.axis {
+    font-size: 10px;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.x.axis path {
+    display: none;
+}
+
+.line {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+}

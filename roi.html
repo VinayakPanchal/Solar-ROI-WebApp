@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vinayak Solar ROI</title>
+    <meta http-equiv="X-UA-COMPATIBLE" content="" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/utility.js"></script>
+
+    <link rel="stylesheet" href="css/font-awesome.min.css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/style.css" />
+
+</head>
+
+
+<body>
+
+    <header id="header">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class ="container-fluid">
+                <div class="navbar-header">
+                    <a href="index.html">
+                        <h2> Vinayak Solar ROI </h2>
+                    </a>
+
+                </div>
+
+
+                <nav class="nav navbar-nav">
+                    <ul class="nav nav-pills">
+                        <li class="active"><a href="index.html"><i class="fa fa-home"></i> Home</a></li>
+                        <li> <a href="products.html"><i class="fa fa-building"></i> Products</a> </li>
+                        <li> <a href="analytics.html"><i class="fa fa-line-chart"></i> Analytics</a></li>
+                        <li> <a href="aboutus.html"> <i class="fa fa-archive"></i> About Us</a> </li>
+
+                        <li class="signButton"> <a href="signup.php"> Sign Up!</a> </li>
+                    </ul>
+                </nav>
+
+            </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <section id="roiCalculator">
+            <h2>Solar Return Over Investment calculator</h2><br>
+            <h4>How much electricity bill do you pay a month? ( Mention in numbers Eg. 600 ) <input type= "number" id="bill"></h4>
+            <h4>How many solar panels do you use? ( Mention in numbers Eg. 2 )  <input type="number" id="panels"></h4>
+            <h4>How long have you been consuming solar energy?( Mention in years Eg. 2 )  <input type="number" id="years"></h4>
+            <input type="button" id="calculate" value="Calculate" onclick="roicalculate();">
+
+        </section>
+
+        <section id="result">
+            <h2>How much you save! </h2>
+            <h4> Your savings till date on Solar!  <p id ="savings"></p> </h4>
+            <h4> How much you will save in next 5 years!  <p id ="save5"></p> </h4>
+            <h4> How much you will save in next 10 years! <p id ="save10"></p> </h4>
+
+        </section>
+    </div>
+
+</body>
+</html>

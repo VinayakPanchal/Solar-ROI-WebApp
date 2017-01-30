@@ -1,0 +1,247 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sea",
+				"searchErr"
+			],
+			[
+				"a",
+				"array	$… = array (…)"
+			],
+			[
+				"item",
+				"item_url"
+			],
+			[
+				"sa",
+				"searchkey"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"search",
+				"searchkey"
+			],
+			[
+				"fa",
+				"favNums2"
+			],
+			[
+				"frie",
+				"friends2"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"Array",
+				"ArrayBuffer"
+			],
+			[
+				"ran",
+				"randSentArray"
+			],
+			[
+				"num",
+				"numberGuess"
+			],
+			[
+				"print",
+				"printPrime"
+			],
+			[
+				"o",
+				"object	object"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/UMass Acedemics/Semester 4/IWS2/Price/index.php",
+		"/G/UMass Acedemics/Semester 4/IOT/project/getS3.php",
+		"/G/UMass Acedemics/Semester 4/IOT/project/sns.py",
+		"/C/Users/Lenovo/Downloads/motionCam.py",
+		"/G/UMass Acedemics/Semester 4/IWS2/Price Comparison/index.php",
+		"/G/MonsterJava/Dropwizard-Demo/config.yml",
+		"/G/MonsterJava/Dropwizard-Test/config.yml",
+		"/G/UMass Acedemics/Semester 4/IWS2/Price Comparison/amazon_product_api_signed_request.php",
+		"/G/UMass Acedemics/Semester 4/IWS2/index.php",
+		"/G/UMass Acedemics/Semester 4/IWS2/Price Comparison/php/api_calls.php",
+		"/G/UMass Acedemics/Semester 4/IWS2/Price Comparison/api_calls.php",
+		"/G/UMass Acedemics/Semester 4/IWS2/index.html",
+		"/G/UMass Acedemics/Semester 4/IWS2/Price Comparison/php/index.php",
+		"/G/UMass Acedemics/Semester 4/IWS2/Price Comparison/php/amazon_product_api_class.php",
+		"/G/UMass Acedemics/Semester 4/IWS2/Price Comparison/php/amazon_product_api_signed_request.php",
+		"/G/UMass Acedemics/Semester 4/IWS2/Price Comparison/sample.php",
+		"/G/UMass Acedemics/Semester 4/IWS2/Price Comparison/php/sample.php",
+		"/G/UMass Acedemics/Semester 4/IWS2/Project/amazon_product_api_class.php",
+		"/G/UMass Acedemics/Semester 4/IWS2/Project/amazon_product_api_signed_request.php",
+		"/G/UMass Acedemics/Semester 4/IWS2/Project/index.php",
+		"/G/UMass Acedemics/Semester 4/IWS2/Project/nikhil/index.php",
+		"/G/UMass Acedemics/Semester 4/IWS2/Price Comparison/php/ebaysearch.php",
+		"/G/UMass Acedemics/Semester 3/IWS/91513f2015/hello/index.html",
+		"/G/UMass Acedemics/Semester 4/IOT/Assgnment 5/iot-mqtt-publisher.py",
+		"/G/MonsterJava/ScalaLearn/scalaLearn.scala"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sns",
+			"echo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "utility.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
