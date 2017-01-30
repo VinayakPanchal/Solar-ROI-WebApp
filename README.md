@@ -4,4 +4,6 @@
  
  2. Demonstrated usage of HTML5, CSS3, jQuery, AJAX, JavaScript, Bootstrap, D3.js, PHP and MySql and was hosted on a LAMP server.
  
+ 3. Once cloned, copy and paste the entire directory onto a LAMP server and navigate to index.html from your browser to view the complete web app.
+ 
  
